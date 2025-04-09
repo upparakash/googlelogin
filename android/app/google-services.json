@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387215750150",
+    "project_id": "s2service-d23c5",
+    "storage_bucket": "s2service-d23c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387215750150:android:6480446bae95bd89207f87",
+        "android_client_info": {
+          "package_name": "com.glogin1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEhLFalkm7xO9E1gesPY5jx6Vg4b_U0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
